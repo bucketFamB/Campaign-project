@@ -1,0 +1,21 @@
+img{
+    width:500px;
+    margin:200px;
+}
+.heading {
+    display:flex;
+    justify-content:center;
+}
+.sub {
+    display:flex;
+    justify-content:center;
+}
+.ok {
+    display:flex;
+}
+.img1 {
+    width:56%;
+}
+.img2 {
+    width:70%;
+}
